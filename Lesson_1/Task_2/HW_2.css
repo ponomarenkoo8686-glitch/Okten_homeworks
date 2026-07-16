@@ -1,0 +1,14 @@
+body{
+    background: #5d7a5e;
+    height: 100%;
+    width:50% ;
+    display: flex;
+
+
+}
+
+p{
+    padding-right: 20px;
+    margin: 20px;
+   background-color: #D5E2CB;
+}
