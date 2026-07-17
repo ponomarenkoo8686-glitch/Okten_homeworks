@@ -1,0 +1,23 @@
+body{
+    background-color: #566F54;
+}
+
+.month{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+
+}
+
+.january, .february, .march, .april, .may, .june, .july, .august, .september, .october, .november, .december{
+    background-color: #D5E2CB;
+    width: 220px;
+    padding: 20px;
+    border-radius: 8px;
+    transition: transform 0.2s ease;
+}
+
+.january:hover, .february:hover, .march:hover, .april:hover, .may:hover, .june:hover, .july:hover, .august:hover, .september:hover, .october:hover, .november:hover, .december:hover{
+    transform: scale(1.1);
+}
