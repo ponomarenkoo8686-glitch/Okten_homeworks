@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 20px;
+}
+
+.font{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.rubik, .sedgwick, .dancing, .fjalla, .indie{
+    background-color: lightsalmon;
+    width: 220px;
+    height: 220px;
+    font-size: 20px;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
