@@ -7,7 +7,7 @@
 }
 header{
     height: 60vh;
-    background-color: #6c6cf6;
+    background-color: #3468B0;
     color: #606060;
 }
 .wrapper{
@@ -19,11 +19,11 @@ header{
  section{
      height: 50vh;
      width: 32%;
-     background-color: #4141cf;
+     background-color: #234876;
  }
 footer{
     height: 60vh;
-    background-color: #6c6cf6;
+    background-color: #3468B0;
     color: #606060;
 }
 header, section, footer{
